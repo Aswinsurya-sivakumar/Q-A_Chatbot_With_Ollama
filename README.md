@@ -171,33 +171,4 @@ What is Machine Learning?
 
 ---
 
-## 📌 Learning Outcomes
 
-Through this project, I practiced:
-
-- Integrating Ollama with LangChain for local LLM inference
-- Working with and comparing open-source LLMs (Llama 3, Mistral)
-- Designing prompt templates with LangChain
-- Building interactive AI interfaces with Streamlit
-- Managing secrets and configuration with `python-dotenv`
-- Tracing and monitoring LLM applications with LangSmith
-- Understanding the end-to-end workflow of a Generative AI application
-
----
-
-## 🔮 Future Improvements
-
-- [ ] Add conversation memory (multi-turn context)
-- [ ] Persist chat history across sessions
-- [ ] Support PDF-based Question Answering
-- [ ] Implement Retrieval-Augmented Generation (RAG)
-- [ ] Add more Ollama models (Gemma, Phi-3, etc.)
-- [ ] Improve prompt engineering and system prompts
-- [ ] Add response streaming for real-time output
-- [ ] Deploy the application (Docker + Streamlit Community Cloud)
-
----
-
-## 📜 License
-
-This project was created for learning and educational purposes.
