@@ -1,25 +1,24 @@
-﻿# 🤖 Q&A Chatbot With Ollama
+# 🤖 Q&A Chatbot With Ollama
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-Framework-green.svg)](https://www.langchain.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-Educational-lightgrey.svg)](#-license)
 
-An AI-powered Question & Answer chatbot built with **Python, LangChain, Streamlit, and Ollama**. Chat with locally running, open-source LLMs (Llama 3, Mistral) through a clean, interactive web interface — no API keys or cloud inference required for the core chat experience.
+An AI-powered Question & Answer chatbot built with **Python, LangChain, Streamlit, and Ollama**. Chat with locally running, open-source LLMs (Llama 3, Mistral) through a clean, interactive web interface.
 
 ---
 
 ## 🚀 Features
 
 - 💬 Interactive Question & Answer chatbot
-- 🧠 Runs fully open-source LLMs locally via Ollama
+- 🧠 Runs open-source LLMs locally via Ollama
 - 🔄 Supports **Llama 3** and **Mistral** (easily extendable to other Ollama models)
 - 🔗 Built with **LangChain** for prompt templating and LLM orchestration
 - 🖥️ Clean, responsive web interface using **Streamlit**
 - 📊 **LangSmith** integration for tracing, debugging, and monitoring
 - ⚙️ Model selection directly from the sidebar
 - 🌡️ Adjustable **temperature** and **max tokens** for response control
-- 🔒 Runs entirely on your machine — your data never leaves your system
 
 ---
 
